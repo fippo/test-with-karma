@@ -1,0 +1,19 @@
+{
+  "name": "test-canary-with-karma",
+  "version": "0.0.1",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "karma": "^6.4.1",
+    "karma-browserify": "^8.1.0",
+    "karma-chai": "^0.1.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-mocha": "^2.0.1",
+    "karma-mocha-reporter": "^2.2.3",
+    "karma-safari-launcher": "^1.0.0",
+    "mocha": "^10.1.0",
+    "sinon": "^2.2.0",
+    "sinon-chai": "^2.14.0",
+    "travis-multirunner": "^5.0.1"
+  }
+}
